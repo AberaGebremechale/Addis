@@ -1,5 +1,10 @@
 Hi nano?
 How you doing ?
 
+<<<<<<< HEAD
 Let's work together.
 
+=======
+
+it is good idea to study hard.
+>>>>>>> 0e66bdfd087b3d25cc5551f3621b654b05404626
