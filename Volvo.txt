@@ -2,5 +2,11 @@ This is a company that manufacture vehicles.
 
 Volvo cars are very strong and durable.
 
+<<<<<<< HEAD
 What unique character does it have.
 
+=======
+
+
+Let's change volvo to Merchedize.
+>>>>>>> 13b0ea0979c7992e04f76707d0e5acb6c4953c68
