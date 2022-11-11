@@ -4,8 +4,11 @@ Volvo cars are very strong and durable.
 
 What unique character does it have.
 
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> ed8e8d6d23346a705750372fd9f500657b4bfe62
 Let's change volvo to Merchedize.
 
