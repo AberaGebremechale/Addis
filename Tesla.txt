@@ -1,10 +1,6 @@
-<<<<<<< HEAD
 Tesla is nice car. Anyone disaggre?
-=======
 Tesla is nice car. Yes or no!
->>>>>>> f4ef3564cbc9553a0115da94364cbf6742f2ae1c
 The service cost for Tesla is very high.
-
 I wounder if I have a Tesla.
 I will buy Tesla next month.
 
